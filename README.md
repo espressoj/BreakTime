@@ -29,8 +29,8 @@ pip3 install _library_name_
 This application does not currently generate a log file.
 
 
-## Database Views
-No views have been created for this application.
+## Database
+No database used by this application.
 
 ## License
 [MIT License](https://opensource.org/licenses/MIT, "MIT License")
