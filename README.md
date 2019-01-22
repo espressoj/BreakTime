@@ -4,7 +4,7 @@ This python application, when run, will start a looped timer.  The app asks the 
 * How many minutes between the breaks?
 * ID of the YouTube video to show (press enter for default):
 
-With the last input, the timer will start and your break times will announced when the timer goes off. The default video is set as "Parov Stelar - Ragtime Cat ft Lilja Bloom (Lunch Break) ft. NEILAND.".  The video is 00:03:24.
+With the last input, the timer will start and your break times will be announced when the timer goes off. The default video is set as *Parov Stelar - Ragtime Cat ft Lilja Bloom (Lunch Break) ft. NEILAND.*.  The video is 00:03:24.
 
 The purpose of the program is to remind you to get up out of your chair and exercise, dance, stretch, or just move around!
 
