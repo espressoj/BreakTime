@@ -9,7 +9,7 @@ import webbrowser
 breaks = input("How many breaks do you want to take?")
 break_gap = input("How many minutes between the breaks?")
 print(("\nOnly add what comes after the \'v=\' in the YouTube address"
-      "(https://www.youtube.com/watch?v=hqCsg4U3iqQ)."))
+       "(https://www.youtube.com/watch?v=hqCsg4U3iqQ)."))
 youtube_video_id = input(("ID of the YouTube video to show (press enter for "
                          "default): "))
 
@@ -24,7 +24,7 @@ def set_breaktime(hours, minutes, seconds, breaks, videoId):
     else:
         videoUrl = ('https://www.youtube.com/watch?v=%s' % videoId)
     print(("\n\nYou\'ve asked for {} breaks in {} minute intervals.\n\nAt "
-          "each break the following YouTube video will play:\n    {}".
+           "each break the following YouTube video will play:\n    {}".
           format(breaks, minutes, videoUrl)))
     # Process the contents of the loop the given number of breaks.
     while loop_count <= breaks:

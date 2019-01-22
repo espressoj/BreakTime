@@ -1,6 +1,12 @@
 # BreakTime (Python)
-This python application, when run, will start a looped timer.  Each hour, for 6 hours, the program will open a browser to a YouTube video (Parov Stelar - Ragtime Cat ft Lilja Bloom (Lunch Break) ft. NEILAND) and start playing.  The video is 00:03:24 and is meant to be a reminder to get up out of your chair and exercise, dance, stretch, or just move around.
+This python application, when run, will start a looped timer.  The app asks the following questions:
+* How many breaks do you want to take?
+* How many minutes between the breaks?
+* ID of the YouTube video to show (press enter for default):
 
+With the last input, the timer will start and your break times will announced when the timer goes off. The default video is set as "Parov Stelar - Ragtime Cat ft Lilja Bloom (Lunch Break) ft. NEILAND.".  The video is 00:03:24.
+
+The purpose of the program is to remind you to get up out of your chair and exercise, dance, stretch, or just move around!
 
 ## Requirements
 This is a python program and thus, you will need a python interpreter.  For more information, head on over to [https://www.python.org/about/](https://www.python.org/about/). The **BreakTime** program has been tested in the following Python versions:
