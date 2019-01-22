@@ -22,7 +22,7 @@ pip3 install _library_name_
 **Note:**  *If installing the library(ies) on a virtual machine, you may need to include `--user` at the end of the pip/pip3 line(s) above.*
 
 ## Directions
-1. From a console program use the following code to start the web server and run the program.
+1. From a console program use the following code to run the program.
 ###### $  ```python break_time.py``` or $  ```python3 break_time.py``` _(depending on the version of Python you want to use.)_
 
 ## Log File
